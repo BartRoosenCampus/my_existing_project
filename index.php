@@ -1,6 +1,8 @@
 <?php
 // index.php
 declare(strict_types = 1);
+
+$change = "some change here";
 ?>
 
 <!DOCTYPE html>
