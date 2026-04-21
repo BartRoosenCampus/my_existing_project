@@ -15,5 +15,6 @@ $anotherChange = "another change";
     <title>Hier een nieuwe titel</title>
 </head>
 <body>
+    <h1>Nog meer wijzigingen</h1>
 </body>
 </html>
