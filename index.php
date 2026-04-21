@@ -3,6 +3,8 @@
 declare(strict_types = 1);
 
 $change = "some change here";
+
+$anotherChange = "another change";
 ?>
 
 <!DOCTYPE html>
